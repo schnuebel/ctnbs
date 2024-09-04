@@ -1,7 +1,7 @@
 {
   "name": "Calorie Tracker",
   "short_name": "CalorieTracker",
-  "start_url": "/",
+  "start_url": "/ctnbs/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#28a745",
