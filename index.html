@@ -15,7 +15,7 @@
         <h1>Calorie Tracker</h1>
         <form id="calorie-form">
             <input type="text" id="meal-name" placeholder="Meal Name" required>
-            <input type="number" id="calories" placeholder="Calories" required>
+            <input pattern="[0-9]*" type="number" id="calories" placeholder="Calories" required>
             <button type="submit">Add Meal</button>
         </form>
         <ul id="meal-list"></ul>
